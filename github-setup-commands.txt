@@ -1,0 +1,8 @@
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Saqibamin72/Employee_management2.git
+git push -u origin main
+git remote set-url origin https://USERNAME:<MYTOKEN>@github.com/USERNAME/Repo.git
+git remote set-url origin https://Saqibamin72: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@github.com/Saqibamin72/Employee_management2.git
